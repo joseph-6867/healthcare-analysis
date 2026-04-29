@@ -45,18 +45,7 @@ The app will open at `http://localhost:8501` in your browser. Upload a CSV file 
 jupyter notebook healthcare_analysis_notebook.ipynb
 ```
 
-## Example CSV Columns
 
-The app auto-detects these columns (or similar names):
-
-- **age** — Patient age
-- **bmi** — Body Mass Index
-- **glucose** — Blood glucose level
-- **gender** / **sex** — Patient gender
-- **disease** / **diagnosis** / **condition** — Health condition
-- **outcome** / **target** / **result** — Analysis outcome
-
-If your CSV has different column names, the app will still work—it uses smart name matching.
 
 ## How It Works
 
@@ -66,13 +55,4 @@ If your CSV has different column names, the app will still work—it uses smart 
 4. Displays data quality, statistics, and charts
 5. Shows group-by analysis and correlations
 
-## Tips
 
-- CSV files should have headers (column names in the first row)
-- Data rows with missing values are removed during cleaning
-- Charts are medium-sized for easy viewing
-- Use the app with any healthcare or medical dataset
-
-## Author
-
-Created as a beginner-friendly mini project for learning data analysis with Python, Streamlit, and Jupyter.
