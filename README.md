@@ -10,11 +10,7 @@ A simple, beginner-friendly tool for analyzing healthcare CSV files. Upload any 
 - **Correlation analysis** — See relationships between numeric columns
 - **Charts** — Bar, pie, histogram, and correlation heatmap
 
-## Project Files
 
-- `streamlit_app.py` — Main Streamlit web app
-- `healthcare_analysis_notebook.ipynb` — Jupyter Notebook version (same analysis)
-- `requirements.txt` — Python package dependencies
 
 ## Requirements
 
@@ -44,12 +40,5 @@ jupyter notebook healthcare_analysis_notebook.ipynb
 
 
 
-## How It Works
-
-1. Upload a CSV file
-2. App cleans data (removes missing values, standardizes text)
-3. Auto-detects meaningful columns
-4. Displays data quality, statistics, and charts
-5. Shows group-by analysis and correlations
 
 
