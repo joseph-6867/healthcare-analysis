@@ -11,7 +11,6 @@ A simple, beginner-friendly tool for analyzing healthcare CSV files. Upload any 
 - **Charts** — Bar, pie, histogram, and correlation heatmap
 
 
-
 ## Requirements
 
 - Python 3.7 or higher
