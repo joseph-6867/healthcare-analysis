@@ -4,13 +4,11 @@ A simple, beginner-friendly tool for analyzing healthcare CSV files. Upload any 
 
 ## Features
 
-- **Auto-detect columns** — Automatically finds common healthcare columns (age, BMI, glucose, gender, disease, outcome)
 - **Data quality metrics** — Shows rows, missing values, duplicates
 - **Basic analysis** — Mean, max, min for numeric columns
 - **Group-by stats** — Average values grouped by category
 - **Correlation analysis** — See relationships between numeric columns
 - **Charts** — Bar, pie, histogram, and correlation heatmap
-- **Works with any CSV** — Flexible column name matching
 
 ## Project Files
 
@@ -21,7 +19,6 @@ A simple, beginner-friendly tool for analyzing healthcare CSV files. Upload any 
 ## Requirements
 
 - Python 3.7 or higher
-- Virtual environment (recommended)
 
 ## Quick Start
 
