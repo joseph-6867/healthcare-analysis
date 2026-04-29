@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.csv
+.streamlit/
+*.log
