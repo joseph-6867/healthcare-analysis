@@ -36,12 +36,9 @@ The app will open at `http://localhost:8501` in your browser. Upload a CSV file 
 ```bash
 jupyter notebook healthcare_analysis_notebook.ipynb
 ```
-### Run the Project in Terminal
+
+### 4. Run the Project in Terminal
 
 ```powershell
 .\.venv\Scripts\activate
 streamlit run streamlit_app.py
-
-
-
-
